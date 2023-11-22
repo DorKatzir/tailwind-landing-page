@@ -1,1 +1,1 @@
-# - Landing page - Tailwind Crush Course Project
+# Landing page - Tailwind Crush Course Project
